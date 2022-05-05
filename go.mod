@@ -1,4 +1,4 @@
-module github.com/guilhermecbraga/learning-go/go-rest-api
+module github.com/guilhermecbraga/go-rest-api
 
 go 1.18
 
