@@ -7,9 +7,9 @@ import (
 
 	"github.com/go-openapi/loads"
 	"github.com/go-openapi/runtime/middleware"
-	"github.com/guilhermecbraga/go-rest-api/pkg/swagger/server/restapi"
+	"github.com/guilhermecbraga/learning-go/go-rest-api/pkg/swagger/server/restapi"
 
-	"github.com/guilhermecbraga/go-rest-api/pkg/swagger/server/restapi/operations"
+	"github.com/guilhermecbraga/learning-go/go-rest-api/pkg/swagger/server/restapi/operations"
 )
 
 func main() {
